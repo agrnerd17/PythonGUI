@@ -6,11 +6,11 @@
 
 ![py_app_screenshot](https://github.com/agrnerd17/PythonGUI/assets/63982078/538bc6b5-4014-42b3-8a73-7e13a52f9f92)
 
-Portfolio:
+GUI App:
 
-* Showcases current projects that are completed or in the process of completion. 
-* Displays languages used. 
-* Has links to Resume and other contacts.
+* Implements Python's tkinter module. 
+* Opens and runs executable app files.
+* Contains two buttons, one for opening app files and another for running the app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -20,8 +20,7 @@ Portfolio:
 
 Languages used:
 
-* HTML
-* CSS
+* Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -30,9 +29,7 @@ Languages used:
 <!-- UPDATES -->
 ## Updates
 
-- [x] Fix Links
-- [ ] Add profile picture
-- [ ] Add 3 projects
+- [ ] Add scrollbar using tkinter's Scrollbar widget.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,6 +40,6 @@ Languages used:
 
 Amelie Gomez - ameliegomez0@gmail.com
 
-Project Link: [https://github.com/agrnerd17/ameliegomez](https://github.com/agrnerd17/ameliegomez)
+Project Link: [https://github.com/agrnerd17/PythonGUI](https://github.com/agrnerd17/PythonGUI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
